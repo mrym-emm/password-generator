@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: #1f2937;
+  font-family: "Karla", sans-serif;
+  color: whitesmoke;
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+hr {
+  max-width: 30rem;
+  margin-left: 0px;
+  border: 1px solid #2f3e53;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  width: 15rem;
+  height: 2rem;
+  font-family: inherit;
+  background-color: #fbbf24;
+  border: none;
+  border-radius: 5px;
+  margin-right: 2px;
+  margin-left: 2px;
+}
+#first-pw,
+#second-pw {
+  background-color: #273549;
+  color: #fbbf24;
+}
